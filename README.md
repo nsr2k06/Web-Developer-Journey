@@ -21,5 +21,10 @@ This repo is a collection of my learning journey where I build small projects an
 
 ---
 
-## 📂 Folder Structure  
+## 👤 Author  
+
+**Nitin Singh**  
+- GitHub: [@nsr2k06](https://github.com/nsr2k06)  
+- LinkedIn: [Your Profile](https://www.linkedin.com/in/nsr2k25/)  
+- Email: nsr2k06@gmail.com  
 
