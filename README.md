@@ -18,8 +18,10 @@ This repo is a collection of my learning journey where I build small projects an
 ## 🛠️ Tech Stack  
 - **HTML**  
 - **CSS**  
-- **JavaScript** (Coming Soon)  
-- **Other Tools:** Git, VS Code, Chrome DevTools  
+- **JavaScript**
+- **VS Code**
+- **Git**
+- **Chrome DevTools**  
 
 ---
 
